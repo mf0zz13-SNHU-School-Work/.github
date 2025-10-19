@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
 
 <h1>Welcome to mf0zz13-SNHU-School-Work 📘</h1>
-<p>As the name implies, this organization hosts all the repositories containing my Computer Science academic projects, assignments, and course materials developed in pursuit of my Bachelor of Science in Computer Science with a concentration in Software Engineering at Southern New Hampshire University (SNHU).</p>
+<p>My name is Mike, and as the name implies, this organization hosts all the repositories containing my Computer Science academic projects, assignments, and course materials developed in pursuit of my Bachelor of Science in Computer Science with a concentration in Software Engineering at Southern New Hampshire University (SNHU).</p>
 
 <h2>Purpose 🌟</h2>
 <p>The aim of this repository collection is to:</p>
