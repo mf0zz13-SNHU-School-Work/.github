@@ -1,37 +1,42 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+# Michael Foster's Computer Science Coursework
 
-<h1>Welcome to mf0zz13-SNHU-School-Work 📘</h1>
-<p>My name is Mike, and as the name implies, this organization hosts all the repositories containing my Computer Science academic projects, assignments, and course materials developed in pursuit of my Bachelor of Science in Computer Science with a concentration in Software Engineering at Southern New Hampshire University (SNHU).</p>
+This organization collects selected academic projects completed by [Michael Foster](https://github.com/mf0zz13) while pursuing a Bachelor of Science in Computer Science with a concentration in software engineering at Southern New Hampshire University.
 
-<h2>Purpose 🌟</h2>
-<p>The aim of this repository collection is to:</p>
-<ul>
-<li>Showcase my academic growth and technical skills acquired during my studies.</li>
-<li>Provide a reference for prospective students or peers exploring similar coursework.</li>
-<li>Serve as a foundation for future projects, learning, or collaborations.</li>
-</ul>
+The repositories show progress across software design, testing, algorithms, security, mobile development, and embedded systems. They are academic prototypes and learning artifacts; each project README describes its current scope, prerequisites, and known limitations.
 
-<h2>Contents 📂</h2>
-<p>Each repository within this organization corresponds to a course or project completed as part of my degree program. Some highlights include:</p>
-<ul>
-<li>CS XXXX - Course Name: [Brief Description of Course Work]</li>
-<li>Project Name: [Highlight Key Projects, e.g., Full-stack applications, Algorithms, etc.]</li>
-</ul>
-<p>Repositories are structured to ensure clarity, readability, and ease of navigation.</p>
+## Project guide
 
-<h2>Technologies Used 🛠️</h2>
+| Area | Primary repository | What it demonstrates |
+| --- | --- | --- |
+| Software testing | [CS-320 integrated project](https://github.com/mf0zz13/CS-320-Reflection) | Java services, input validation, and JUnit tests for contact, task, and appointment requirements |
+| Algorithms and data structures | [CS-300 course planner](https://github.com/mf0zz13-SNHU-School-Work/CS-300-Reflection) | C++ CSV parsing, an unbalanced binary search tree, ordered traversal, lookup, and data-structure analysis |
+| Embedded systems | [CS-350](https://github.com/mf0zz13-SNHU-School-Work/CS-350) | Python state machines, Raspberry Pi GPIO, sensors, an LCD, and periodic serial output; hardware is required |
+| Mobile and local data | [CS-360](https://github.com/mf0zz13-SNHU-School-Work/CS-360) | An academic Android application using Java, SQLite, and GraphView |
+| Computer graphics | [CS-330](https://github.com/mf0zz13/CS-330) | C++, OpenGL, textures, lighting, camera controls, and 3D scene composition; course support libraries are required |
+| Secure development | [CS-305](https://github.com/mf0zz13-SNHU-School-Work/CS-305-Project-Two) | A SHA-256 demonstration, Maven dependency-check configuration, and a historical software-security assessment |
+| Object-oriented design | [CS-230](https://github.com/mf0zz13-SNHU-School-Work/CS-230-Operating-Platforms) | A Java game-domain model, service patterns, and a software-design document |
+| Requirements and system design | [CS-255](https://github.com/mf0zz13-SNHU-School-Work/CS-255-Reflection) | DriverPass requirements and UML design artifacts; the proposed system was not implemented here |
+| Agile practice | [CS-250](https://github.com/mf0zz13-SNHU-School-Work/CS-250-Sprint-Review-and-Retrospective) | Scrum roles, user stories, feedback, adaptation, and retrospective analysis |
+| C++ fundamentals | [CS-210](https://github.com/mf0zz13-SNHU-School-Work/CS-210-Final-Project) | Object-oriented console development and compound-interest calculations |
 
-<p>Here you'll find work involving:</p>
-<ul>
-<li >Programming Languages: 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a> 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30" /></a></li>
-<li>Frameworks:</li>
-<li>Development Tools: Git, PyCharm, Visual Studio Code, Intellij, Visual Studio 2022</li>
-<li>Software Engineering Practices: Agile Methodologies, Design Patterns</li>
+## CS-300 lab index
 
-<h2>Disclaimer ⚠️</h2>
-This organization is intended solely for educational and showcase purposes. Please respect academic integrity and refrain from duplicating or redistributing content without permission.
+The [CS-300 course planner and reflection](https://github.com/mf0zz13-SNHU-School-Work/CS-300-Reflection) is the canonical course entry point. Supporting repositories preserve individual exercises:
 
-Feel free to modify it to suit your style or add specific details about your repositories. Let me know if you'd like help with any adjustments!
+- [Binary search tree](https://github.com/mf0zz13-SNHU-School-Work/CS-300-Binary-Search-Tree)
+- [Hash table with chaining](https://github.com/mf0zz13-SNHU-School-Work/CS-300-Hash-Tables)
+- [Singly linked list](https://github.com/mf0zz13-SNHU-School-Work/CS-300-Linked-List)
+- [Project Two submission copy](https://github.com/mf0zz13-SNHU-School-Work/CS-300-Project-Two), duplicated in the canonical repository
+- [Incomplete vector-sorting starter](https://github.com/mf0zz13-SNHU-School-Work/CS-300-VectorSorting)
+
+## CS-320 milestone index
+
+The [integrated CS-320 repository](https://github.com/mf0zz13/CS-320-Reflection) combines all three services and is the canonical course artifact. Earlier milestones remain available for historical context:
+
+- [Contact service](https://github.com/mf0zz13-SNHU-School-Work/CS-320-Milestone-Contact-Service)
+- [Task service](https://github.com/mf0zz13-SNHU-School-Work/CS-320-Milestone-Task-Service)
+- [Appointment service](https://github.com/mf0zz13/CS-320-Milestone-Appointment-Service)
+
+## Academic context
+
+Some repositories include instructor-provided starter code, templates, datasets, or framework scaffolding. The accompanying READMEs identify the implemented scope and distinguish source inspection from verified execution. These materials are published as portfolio evidence and a record of learning; please respect SNHU academic-integrity requirements and do not submit this work as your own.
